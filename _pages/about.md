@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>EV Enthusiast,</p>
-    <p>Thinking about the places we live.</p>
-    <p>Somewhere near Atlanta, GA🍑💻⚡</p>
+    <p>EV Enthusiast, thinking about the places we live.</p>
+    <p>Around Atlanta, GA🍑💻⚡</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
