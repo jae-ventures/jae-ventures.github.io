@@ -17,6 +17,10 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-family:  "JetBrains Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
 }
 
 hr {
@@ -305,7 +309,7 @@ ul.task-list input[type="checkbox"] {
     }
   }
 
-  .navbar-brand.social {
+  .navbar-brand.social-nav {
     padding-bottom: 0;
     padding-top: 0;
     font-size: 1.7rem;
@@ -399,6 +403,12 @@ ul.task-list input[type="checkbox"] {
 
 .social {
   text-align: center;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding-top: 10%;
+  padding-bottom: 24px;
 
   .contact-icons {
     font-size: 4rem;
@@ -439,6 +449,10 @@ ul.task-list input[type="checkbox"] {
   .contact-note {
     font-size: 0.8rem;
   }
+}
+
+.social > * {
+  margin: auto;
 }
 
 .wechat-modal {
