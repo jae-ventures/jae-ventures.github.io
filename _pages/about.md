@@ -26,10 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there, I'm Jordan! I'm a software developer venturing into some interesting topics due to my fascination with sustainable transportation. What started as a passion for electric vehicles led me to deeper questions about the ramifications of our sustainable future. Particularly, _"How do we make this green technology transition both effective and ethical?"_
+Hi, I'm Jordan – a software developer fascinated by the intersection of technology and sustainable transportation. My journey began with my love for electric vehicles but has since evolved into exploring how thoughtful urban design can create more equitable transit systems and improve our daily lives.
 
-Questions like this arose as I explored the ethical problems of battery materials sourcing and the difficult history of how infrastructure for the automobile has shaped our lives in the U.S., for better and worse. This led me to start seeking how better city design may be the answer to more equittable transit and better lived daily lives.
-
-These days, you'll find me coding, reading solarpunk and afrofuturism literature, and dreaming up similar ways to build a better future through electrified transit and technology purposely designed to help people thrive where they live. Through this blog, I share my journey of connecting these dots – from software development to sustainable transit to human-centered urban design.
-
-Venture with me as we envision and build towards a future where our cities work better for everyone. Thanks for joining me on the journey! ⚡✍🏽🏙️
+While currently pursuing my OMSCS degree at Georgia Tech with a focus on robotics and Human-Machine/Robot Interaction, I'm exploring how we can build more intuitive relationships between people and technology. I spend my time coding, reading solarpunk and afrofuturism literature, and envisioning a future where technology helps people thrive within their communities. Through this blog, I connect software development with human-centered transit solutions, inviting you to venture with me in reimagining cities that work better for everyone. ⚡✍🏽🏙️
