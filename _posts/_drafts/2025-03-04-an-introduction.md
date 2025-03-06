@@ -7,30 +7,16 @@ tags: formatting links
 categories: sample-posts
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. [Pinterest](https://www.pinterest.com) DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+Since I was a kid I've dreamt about how to make the world more sustainable by the way we move and how we use energy. I always thought it wasteful that the school bus would let out a loud screech as it stopped and none of that energy released could be stored as energy for later. I found it silly and frustrating that we willingly polluted the air we breathe with gas guzzling vehicles, that make the life for allergy or asthma prone kids like myself much more difficult. 
 
-#### Hipster list
+I thought there could be a better way so I sought to become a mechanical engineer to help invent solutions to some of our biggest climate challenges. I got a bit sidetracked, however, as I fell in love with programming and switched to Computer Science in my bachelor's. I loved the idea of taking ideas from the realm of abstraction to reality at the speed of a click. It was empowering to manipulate digital systems, but I lost track of the larger plot when looking for internships and jobs out of college.
 
-- brunch
-- fixie
-- raybans
-- messenger bag
+While I am grateful for the experiences I've learned on my current job, I've learned a few things about myself as I meditated during pandemics and other historic events.
 
-#### Check List
+> We only get one life to live and what better way to live that life than by doing something you care about and love.
 
-- [x] Brush Teeth
-- [ ] Put on socks
-  - [x] Put on left sock
-  - [ ] Put on right sock
-- [x] Go to school
+I was moved by plenty of inspiring people working to solve hard problems or informing us about those people making strides in climate science and other scientific breakthroughs and technologies. Creators like [Cleo Abram]() exposed me to all the positivity happening in the scientific world and giving me hope for our planet's future. Entrepreneurs like [RJ Scaringe]() kept me hopeful that this journey of electrification for humanity is something that is bound to happen and it is our time to make it a reality, for us and many generations to come. Places like the [Atlanta Beltline](), the brain child of Georgia Tech alum Ryan Gravely (check the spelling), convinced me that the places we live are just as important as how we move through them and the two are very much so interconnected.
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+This blog will work to explore all these aspects of my regrown passion to make the world a better place through sustainable means of transit and discovering how we can create spaces and places where all people can truly live and thrive.
 
-<hr>
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+I'm doing all this currently while studying for my Masters in Computer Science at Georgia Tech as I understand now how vital my software and problem solving skills will be in this sustainable transition we make as a society. It's a daunting task for sure, a bit like *venturing into the unknown discovering new paths for a better tomorrow*. Life though feels like it's meant to be an adventure, a challenging yet rewarding experience. I'm hoping through this blog to share my journey in building the future we'd like to see today, and hopefully inspiring you to venture in doing the same.
