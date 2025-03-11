@@ -3,8 +3,8 @@ layout: post
 title: An Introduction
 date: 2025-03-11 08:00:00
 description: What is the Jordan Ventures blog about?
-tags: formatting links
-categories: sample-posts
+tags: electrifying-transit, city-planning
+categories: 
 ---
 
 Since childhood, I've dreamed about how to make the world more sustainable by improving the way we move and how we use energy. I remember feeling frustrated by the school bus's loud screeching stops, seemingly wasting the energy it released from its brakes. I found it disheartening that we willingly polluted the air we breathe with gas guzzling vehicles, that made the life for allergy or asthma prone kids like myself much more difficult. 
