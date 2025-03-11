@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "news-a-simple-inline-announcement",
+        },{id: "post-an-introduction",
+      
+        title: "An Introduction",
+      
+      description: "What is the Jordan Ventures blog about?",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/an-introduction/";
+        
+      },
+    },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
