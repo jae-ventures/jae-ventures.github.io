@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-an-introduction",
+        },{id: "post-could-micromobility-work-in-the-suburbs",
+      
+        title: "Could Micromobility Work in the Suburbs?",
+      
+      description: "Exploring a thought on improving transit in the suburbs with micromobility, defining what it is and my personal experiences with it. Could micromobility work in the suburbs?",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/could-micromobility-work-in-the-suburbs/";
+        
+      },
+    },{id: "post-an-introduction",
       
         title: "An Introduction",
       
