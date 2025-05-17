@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-could-micromobility-work-in-the-suburbs",
+        },{id: "post-charging-in-the-city",
+      
+        title: "Charging in the City",
+      
+      description: "Why are EV charging solutions in the city important? What opportunities in city charging have not been explored or exanded?",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/charging-in-the-city/";
+        
+      },
+    },{id: "post-could-micromobility-work-in-the-suburbs",
       
         title: "Could Micromobility Work in the Suburbs?",
       
