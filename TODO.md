@@ -4,9 +4,9 @@
 
 ## This Week
 
-- [ ] Update accent on website to match with branding
 - [ ] Upload another post
-- [ ] Make your website public on GitHub and your resume
+- [x] Make your website public on GitHub and your resume
+  - [x] It's not on my resume, but it is on LinkedIn which is basically the same
 
 ## This Month
 

@@ -27,7 +27,7 @@ ninja.data = [{
       
         title: "Charging in the City",
       
-      description: "Why are EV charging solutions in the city important? What opportunities in city charging have not been explored or exanded?",
+      description: "Why are EV charging solutions in the city important? What opportunities in city charging have not been explored or expanded?",
       section: "Posts",
       handler: () => {
         
