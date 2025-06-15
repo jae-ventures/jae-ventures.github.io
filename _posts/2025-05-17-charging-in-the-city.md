@@ -2,7 +2,7 @@
 layout: post
 title: Charging in the City
 date: 2025-05-17 13:30:00
-description: Why are EV charging solutions in the city important? What opportunities in city charging have not been explored or exanded?
+description: Why are EV charging solutions in the city important? What opportunities in city charging have not been explored or expanded?
 tags: electrifying-transit, city-planning
 categories: 
 ---
