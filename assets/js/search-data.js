@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-charging-in-the-city",
+        },{id: "post-great-charging-needs-green-software",
+      
+        title: "Great Charging Needs Green Software",
+      
+      description: "Why are sustainable software solutions important for operating great EV Charging networks? We&#39;ll explore how you can you make your EV Charging solution sustainable through the lens of green software practices.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/great-charging-needs-green-software/";
+        
+      },
+    },{id: "post-charging-in-the-city",
       
         title: "Charging in the City",
       
