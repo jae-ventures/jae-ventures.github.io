@@ -56,6 +56,6 @@ Until next time, venture on! ⚡🚲🚶🏽‍♂️🏘️
 
 Here are some sources that I passively remembered while writing this blog post on micromobility and how it might work in the suburbs. I hope you find them as interesting and insightful as I did when I first came across them.
 
-* [What is Micromonility? | Nic Laporte's YouTube channel](https://www.youtube.com/watch?v=j_NqBbvx7eY)
-* [City on the Verge: Atlanta and the Fight for America's Urban Future | Book by Mark Pendergrast](https://blackwells.co.uk/bookshop/product/City-on-the-Verge-Atlanta-and-the-Fight-for-Americas-Urban-Future-by-Pendergrast-Mark/9780465054732)
-* [Where We Want to Live | Book by Ryan Gravel](https://blackwells.co.uk/bookshop/product/Where-We-Want-to-Live-by-Ryan-Gravel/9781250078254)
+* [What is Micromonility? - Nic Laporte's YouTube channel](https://www.youtube.com/watch?v=j_NqBbvx7eY)
+* [City on the Verge: Atlanta and the Fight for America's Urban Future - Book by Mark Pendergrast](https://blackwells.co.uk/bookshop/product/City-on-the-Verge-Atlanta-and-the-Fight-for-Americas-Urban-Future-by-Pendergrast-Mark/9780465054732)
+* [Where We Want to Live - Book by Ryan Gravel](https://blackwells.co.uk/bookshop/product/Where-We-Want-to-Live-by-Ryan-Gravel/9781250078254)

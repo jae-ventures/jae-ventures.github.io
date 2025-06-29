@@ -7,11 +7,9 @@ tags: electrifying-transit, coding
 categories: 
 ---
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/GreatChargingNEedsGreenSoftware_ChatGPT.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+<p align="center">
+  <img src="/assets/img/GreatChargingNeedsGreenSoftware_ChatGPT.png" class="img-fluid rounded z-depth-1">
+</p>
 
 <div class="caption">
     Image: ChatGPT's imagery for EV Charging using Green Software. 
@@ -21,7 +19,7 @@ categories:
 
 I've been considering for a while how I as a software developer could better contribute towards decarbonization efforts. What steps could I take to reduce the environmental impact of the software development lifecycle (SDLC)? From the incantation I cast with keystrokes to bring a feature to life, to that feature being introduced to hundreds of users -- the answer is *Green Software*.
 
-*Green Software* is the practice of considering the amount of carbon (CO2eq) over the lifetime of any software. Just as an automobile's emissions should be tracked from the moment the minerals are extracted from the earth, refined during manufacturing, rolling off the assembly line and driven by customers until its "wheels fall off", software produces emissions that should be tracked from cradle to grave as well. The idea of Green Software has been largely popularized by [*The Green Software Foundation*](https://greensoftware.foundation/) who offers resources on how to reduce a software applications overall carbon impact. I recently took their [Green Software Practioner Course](https://learn.greensoftware.foundation/) which is a great introduction to the practice and everyone involved with a software product make more sustainable decisions throughout that product's lifetime and beyond.
+*Green Software* is the practice of considering the amount of carbon (CO2eq) over the lifetime of any software. Just as an automobile's emissions should be tracked from the moment the minerals are extracted from the earth, refined during manufacturing, rolling off the assembly line and driven by customers until its "wheels fall off", software produces emissions that should be tracked from cradle to grave as well. The idea of Green Software has been largely popularized by *[The Green Software Foundation](https://greensoftware.foundation/)* who offers resources on how to reduce a software applications overall carbon impact. I recently took their [Green Software Practioner Course](https://learn.greensoftware.foundation/) which is a great introduction to the practice and everyone involved with a software product make more sustainable decisions throughout that product's lifetime and beyond.
 
 Green Software follows a set of core principles that help anyone who has an influence on the lifecycle of a software product, reduce the negative impacts to the environment that software inevitably will have due to the emmissions released during its life. The six core principles are as follows:
 1. **Carbon Efficiency**: Emit the least amount of carbon possible.
@@ -117,11 +115,9 @@ Leading CPOs can drive decarbonization beyond their direct operations by:
 
 ## Venturing Further: What's Next for Sustainable Charging?
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/GreatChargingNEedsGreenSoftware_Anime3_ChatGPT.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+<p align="center">
+  <img src="/assets/img/GreatChargingNeedsGreenSoftware_Anime3_ChatGPT.png" class="img-fluid rounded z-depth-1" width="90%">
+</p>
 
 <div class="caption">
     Images: ChatGPT's rendition of EV Charging sites that implement Green Software principles. 
@@ -129,7 +125,7 @@ Leading CPOs can drive decarbonization beyond their direct operations by:
 
 Here are some thoughts on how EV charging solutions can further implement Green Software principles and remain symbols of sustainability.
 
-<b>**Vehicle-to-Grid (V2G) Integration:**</b>
+**Vehicle-to-Grid (V2G) Integration:**
 Future charging sites will transform from simple energy consumers to active grid participants. EVs can store excess renewable energy during peak generation periods and discharge it back to the grid during peak demand, essentially turning charging sites into distributed battery storage systems.
 
 **AI-Optimized Charging Networks:**
