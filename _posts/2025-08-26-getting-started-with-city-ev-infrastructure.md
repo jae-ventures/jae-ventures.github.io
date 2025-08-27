@@ -88,10 +88,9 @@ This approach is adaptable, but the core idea remains: do something small that w
 
 **Key locations to consider:**
 
-- City hall parking
-- Library parking lots
-- Community center or recreation facilities
-- Downtown retail districts
+- Parks and recreations centers
+- Libraries and college campuses
+- Downtown retail and dining districts
 - Near major employers
 
 **Success metrics to track:**
