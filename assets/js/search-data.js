@@ -23,15 +23,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-",
+        },{id: "post-getting-started-with-city-ev-infrastructure",
       
-        title: "",
+        title: "Getting Started with City EV Infrastructure",
       
-      description: "",
+      description: "A practical guide for city leaders ready to take the first step toward electrification. Learn the low-risk, high-impact Phase 1 approach that sets your city up for EV success.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/2025-08-26-getting-started-with-city-ev-infrastructure/";
+          window.location.href = "/blog/2025/getting-started-with-city-ev-infrastructure/";
         
       },
     },{id: "post-great-charging-needs-green-software",
