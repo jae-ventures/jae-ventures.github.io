@@ -88,7 +88,7 @@ This approach is adaptable, but the core idea remains: do something small that w
 
 **Key locations to consider:**
 
-- Parks and recreations centers
+- Parks and recreation centers
 - Libraries and college campuses
 - Downtown retail and dining districts
 - Near major employers
