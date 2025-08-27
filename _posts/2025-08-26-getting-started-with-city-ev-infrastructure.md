@@ -7,7 +7,7 @@ tags: electrifying-transit, city-planning
 categories: 
 ---
 
-# Getting Started with City EV Infrastructure: The Phase 1 Approach That Actually Works
+# Getting Started with City EV Infrastructure: A 2 Phase Approach that Scales
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
