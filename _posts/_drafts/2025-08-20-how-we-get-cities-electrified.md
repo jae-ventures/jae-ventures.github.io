@@ -76,9 +76,9 @@ Here are some cities, regions, and states that are melting away range anxiety fo
 
 Fort Collins got it right by taking a comprehensive, coordinated approach to EV readiness. In 2018, they developed a detailed [Electric Vehicle Readiness Roadmap](https://www.fcgov.com/fcmoves/files/cofc-ev-readiness-roadmap.pdf?1540496524) that established clear vision, goals, and defined roles for City departments, private sector, and community members. Rather than having different departments work in silos, they assigned FC Moves as the lead department while establishing an interdepartmental EV working group that meets twice yearly for ongoing coordination.
 
-What really set Fort Collins apart was their commitment to leading by example. They've added 40 EVs and 3 full-sized electric transit buses to their municipal fleet while deploying over 50 EV charging stations throughout the city. This wasn't just about infrastructure—they updated their building codes to require EV-ready single-family homes with conduit from electrical panels to garages, making it easier for residents to go electric.
+What really set Fort Collins apart was their commitment to leading by example. As of 2024, they've added 40 EVs and 3 full-sized electric transit buses to their municipal fleet while deploying over 50 EV charging stations throughout the city. This wasn't just about infrastructure—they updated their building codes to require EV-ready single-family homes with conduit from electrical panels to garages prepared for 30A, 240V outlets for Level 2 charging, making it easier for residents to go electric.
 
-Their strategic approach paid off when they secured over $1 million in grants for cutting-edge EV charging management solutions. As highlighted by the [Build America Center](https://bac.umd.edu/fort-collins-smart-grid-electric-vehicle-charge-management-solution/), their success came from emphasizing collaboration, obtaining letters of support, and outlining a clear innovative vision. Fort Collins also partnered regionally with Colorado State University and the City of Loveland on the [Drive Electric Northern Colorado](http://driveelectricnoco.org/) initiative, recognizing that electrification works best when communities work together.
+Their strategic approach paid off when they secured over $1 million in grants for cutting-edge EV charging management solutions. As highlighted by the [Build America Center](https://bac.umd.edu/fort-collins-smart-grid-electric-vehicle-charge-management-solution/), their success came from emphasizing collaboration, obtaining letters of support, and outlining a clear innovative vision. Fort Collins participates in statewide collaboration efforts like [Drive Clean Colorado](https://drivecleancolorado.org/), a non-profit coalition that works with diverse stakeholders including fleets, utilities, vehicle technology companies, and local governments to accelerate clean transportation adoption across the state.
 
 
 ### Northern New Jersey
@@ -89,8 +89,6 @@ What made their approach effective was the emphasis on stakeholder engagement fr
 
 The NJTPA region also tackled one of the biggest barriers to EV adoption: charging at multi-unit dwellings. They specifically addressed the challenges renters face and included strategies for serving low-income communities, recognizing that electrification needs to work for everyone, not just homeowners. Their regulatory framework was solid too—they developed clear definitions for EVs and charging infrastructure, updated zoning codes, and streamlined permitting processes to make it easier for businesses and residents to install charging stations.
 
-- https://www.njtpa.org/AFVstudy.aspx
-
 ### North Carolina
 
 North Carolina approached electrification as an economic development opportunity, and it's paying off big time. They've attracted $20.4 billion in private investments in the EV manufacturing industry, creating 16,300 jobs in the EV sector. As detailed by the [Electrification Coalition's North Carolina EV Policy overview](https://electrificationcoalition.org/work/state-ev-policy/north-carolina-ev-policy/), this wasn't accidental—it was the result of strategic planning and supportive policies.
@@ -99,9 +97,7 @@ Their corridor strategy is particularly smart. North Carolina secured $109 milli
 
 North Carolina also understood that fleet electrification could be a powerful demonstration tool. They've received 145 electric school buses through the Clean School Bus program across multiple districts, showing students and families that electric vehicles are reliable and practical for daily use. They didn't do this alone—28 business leaders signed a letter urging acceleration of medium- and heavy-duty vehicle electrification, showing strong private sector support.
 
-What's particularly impressive is their focus on rural communities. Through targeted roundtables and community engagement, as documented in their [Transportation Electrification in the Southeast report](https://www.cleanenergy.org/news-and-resources/transportation-electrification-in-the-southeast-fourth-edition/), they've worked to ensure that rural areas aren't left behind in the transition to electric transportation. By 2023, North Carolina had topped 70,000 electric vehicle registrations, proving that their comprehensive approach is working.
-
-- https://electrificationcoalition.org/work/state-ev-policy/north-carolina-ev-policy/
+What's particularly impressive is their focus on rural communities. Through targeted roundtables and community engagement in partnership with other south eastern states through the [Southern Alliance for Clean Energy](https://cleanenergy.org/), they've held webinars like the [Virtual Roundtable: "Transportation Electrification in the Southeast" Fifth Annual Report](https://cleanenergy.org/resource/virtual-roundtable-transportation-electrification-in-the-southeast-fifth-annual-report/) where they've worked to ensure that rural areas aren't left behind in the transition to electric transportation. By 2023, North Carolina had topped 70,000 electric vehicle registrations, proving that their comprehensive approach is working.
 
 ## Venturing Further: What's Next for Electrified Cities?
 
