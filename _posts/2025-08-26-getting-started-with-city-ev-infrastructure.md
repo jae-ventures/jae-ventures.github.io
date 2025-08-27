@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Getting Started with City EV Infrastructure: The Phase 1 Approach That Actually Works
+title: Getting Started with City EV Infrastructure
 date: 2025-08-26 22:00:00
 description: A practical guide for city leaders ready to take the first step toward electrification. Learn the low-risk, high-impact Phase 1 approach that sets your city up for EV success.
 tags: electrifying-transit, city-planning
 categories: 
 ---
+
+# Getting Started with City EV Infrastructure: The Phase 1 Approach That Actually Works
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
