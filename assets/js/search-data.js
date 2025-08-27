@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-great-charging-needs-green-software",
+        },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/2025-08-26-getting-started-with-city-ev-infrastructure/";
+        
+      },
+    },{id: "post-great-charging-needs-green-software",
       
         title: "Great Charging Needs Green Software",
       
