@@ -11,16 +11,16 @@ categories:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/GoogleMaps_StreetViewOfMainStTuckerGA.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="/assets/img/ChatGPTImage_ReimaginingOfEVReadyMainStTuckerGA.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/ChatGPTImage_ReimaginingOfEVReadyMainStTuckerGA.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="/assets/img/GoogleMaps_StreetViewOfMainStTuckerGA.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 
 <div class="caption">
-    Image: ChatGPT's re-imagining of an electrified Main St in Tucker, GA. (original on left, generated image on right) 
+    Image: ChatGPT's re-imagining of an electrified Main St in Tucker, GA. (generated image on top, original on bottom) 
 </div>
 
 ## Your City Needs Public Charging. Here's Where to Start.
