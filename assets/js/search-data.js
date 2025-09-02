@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-getting-started-with-city-ev-infrastructure",
+        },{id: "post-building-community-support-for-ev-infrastructure",
+      
+        title: "Building Community Support for EV Infrastructure",
+      
+      description: "How to get your community excited about electric vehicle charging through engagement strategies that work. Turn your EV infrastructure project into a community success story.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/building-community-support-for-ev-charging-infrastructure/";
+        
+      },
+    },{id: "post-getting-started-with-city-ev-infrastructure",
       
         title: "Getting Started with City EV Infrastructure",
       
