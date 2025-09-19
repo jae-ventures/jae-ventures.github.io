@@ -22,15 +22,23 @@ categories:
 
 ## When the Ribbon-Cutting Ends, the Real Work Begins
 
-You've probably seen the headlines: "State X Lands $5 Billion EV Plant!" or "Major Automaker Brings 10,000 Jobs to Region Y!" These announcements are exciting—they represent serious commitment to electrification and create good-paying jobs. But here's what often gets lost in the celebration: manufacturing plants don't automatically create the charging infrastructure your residents actually need.
+You've probably seen the headlines: "State X Lands $5 Billion EV Plant!" or "Major Automaker Brings 10,000 Jobs to Region Y!" These announcements are exciting! They represent serious commitment to electrification and create good-paying jobs. But I feel there's a point that often gets lost in the celebration. These investments in EV manufacturing are vastly important, but they don't automatically create or guarantee the charging infrastructure the nearby residents who will likely buy these vehicles actually need.
 
-Think about it this way: having a Ford plant in your state doesn't mean you have gas stations on every corner. The same logic applies to EV manufacturing. A Hyundai or Rivian facility might signal that EVs are the future, but without strategic charging infrastructure, that future remains frustratingly out of reach for everyday drivers.
+Internal combustion vehicles went through a similar period in their mass adoption. Having a Ford plant in your state didn't mean you were guaranteed convenient gas station nearby. There was separate innovation and investment in this infrastructure, of course supported by automakers like Ford. The same logic applies to EV manufacturing. A Hyundai, Rivian, or Scout Motors facility might signal that EVs are the future, but without strategic charging infrastructure, that future remains frustratingly out of reach for everyday drivers.
 
-In our [previous posts](https://jordanventures.tech/blog/2025/getting-started-with-city-ev-infrastructure/), we covered how to get started with Phase 1 charging infrastructure and [building community support](https://jordanventures.tech/blog/2025/building-community-support-for-ev-charging-infrastructure/) for your projects. Now let's examine how four regions successfully moved beyond the manufacturing announcement stage to build comprehensive charging networks that actually work for people.
+In our previous posts, we covered [how to get started with Phase 1 charging infrastructure](https://jordanventures.tech/blog/2025/getting-started-with-city-ev-infrastructure/) and [building community support](https://jordanventures.tech/blog/2025/building-community-support-for-ev-charging-infrastructure/) for your projects. We'll now examine how four regions successfully spearheaded significant investment in EV manufacturing and announcements while also developing comprehensive charging networks that actually work for people.
+
+## TL;DR
+- one-liner key takeaway for Colorado
+- one-liner key takeaway for Northern New Jersey
+- one-liner key takeaway for North Carolina
+- one-liner key takeaway for Georgia
+- one-liner key takeaway covering commonalities in each regions approach
+- one-liner key takeaway covering conclusion
 
 ## Four Models That Get It Right
 
-Each region took a different path, but all understood a crucial truth: strategic infrastructure investment is what converts manufacturing momentum into actual EV adoption. Their experiences offer practical lessons for any city ready to build charging networks that serve real communities.
+Each region took a different path, but all understood the significance of strategic infrastructure investment, converting manufacturing investment momentum into actual EV adoption. Their experiences offer practical lessons for any city ready to build charging networks that serve real communities.
 
 ---
 
@@ -125,6 +133,26 @@ What's particularly impressive is their focus on rural areas. Through partnershi
 By 2023, North Carolina topped [70,000 electric vehicle registrations](https://electrificationcoalition.org/work/state-ev-policy/north-carolina-ev-policy/), proving their comprehensive approach works.
 
 **What North Carolina teaches us:** Framing electrification as economic development attracts broader support while addressing rural equity prevents gaps. Make it about jobs and opportunity, not just environmental goals.
+
+### Becoming the Charging Infrastructure Innovation Hub
+
+What makes North Carolina's story even more compelling is how their strategic approach to electrification has attracted not just vehicle manufacturing, but the entire charging infrastructure ecosystem. The state is rapidly becoming the North American headquarters for global charging technology leaders.
+
+**Global Players Choosing North Carolina:**
+[Alpitronic](https://www.electrive.com/2024/08/13/alpitronic-to-manufacture-dc-charging-stations-in-north-carolina/), the German leader in DC fast charging technology, selected North Carolina for their North American manufacturing operations. [Kempower](https://kempower.com/news/kempower-establishes-north-american-headquarters-in-durham/), the Finnish charging solutions innovator known for their modular and efficient charging systems, established their U.S. headquarters in Durham.
+
+Most significantly, [IONNA](https://www.ionna.com/), the joint venture by BMW, GM, Honda, Hyundai, Kia, Mercedes-Benz, and Stellantis, chose North Carolina as their operational hub. IONNA represents something crucial: major automakers taking direct ownership of the charging experience rather than leaving it entirely to third-party networks.
+
+**Why This Matters for American EV Adoption:**
+IONNA's focus on creating a premium, reliable charging network specifically designed for the American market addresses many of the pain points current EV drivers face—inconsistent payment systems, varying reliability, and fragmented user experiences. When automakers invest directly in charging infrastructure, they're acknowledging that vehicle quality alone isn't enough; the entire ownership experience matters.
+
+**A Different Kind of Manufacturing Strategy:**
+While Georgia attracts vehicle manufacturing, North Carolina is becoming the innovation center for the infrastructure that makes those vehicles practical for daily use. This represents a complementary but distinct approach—instead of building the cars, they're building the ecosystem that makes car ownership seamless.
+
+This infrastructure innovation hub approach validates that charging technology itself represents significant economic opportunity, not just the vehicles that use it.
+
+**What North Carolina teaches us:** Framing electrification as economic development attracts broader support while addressing rural equity prevents gaps. Make it about jobs and opportunity, not just environmental goals.
+
 
 ---
 
