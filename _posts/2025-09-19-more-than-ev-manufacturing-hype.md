@@ -38,29 +38,39 @@ In our previous posts, we covered [how to get started with Phase 1 charging infr
 
 ## Four Models That Get It Right
 
-Each region took a different path, but all understood the significance of strategic infrastructure investment, converting manufacturing investment momentum into actual EV adoption. Their experiences offer practical lessons for any city ready to build charging networks that serve real communities.
+Each region took a different path, but all understood the significance of strategic infrastructure investment, converting manufacturing investment momentum into actual EV adoption. Their experiences offer practical lessons for any city ready to build charging networks that serve the needs of their communities.
 
 ---
 
 ## Fort Collins, Colorado: The Systematic Planning Model
 
-Fort Collins understood something important early on: scattered charging stations don't create an electrified city. Coordinated planning does.
+Fort Collins understood early on that a systematic approach to establishing an EV charging network to avoid building a network built on sporadically placed charging stations. They laid out a long term plan for their city to become electrified and developed strategic phases that brought them closer to the long term goal of becoming a leader and innovator in supporting the use of EVs.
 
 ### Building a Roadmap, Not Just Stations
 
-In 2018, Fort Collins developed their [Electric Vehicle Readiness Roadmap](https://www.fcgov.com/fcmoves/ev-readiness-roadmap)—not just a wish list of charging locations, but a comprehensive strategy with clear goals and defined roles for city departments, private sector partners, and community members. This wasn't about installing hardware and hoping for the best.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/cofc-ev-readiness-illustration.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-[FC Moves](https://www.fcgov.com/fcmoves/) became the lead department, but they established an interdepartmental working group that meets regularly for ongoing coordination. No more siloed efforts where the planning department doesn't talk to utilities and utilities don't coordinate with economic development.
+<div class="caption">
+    Image: Illustration of Fort Collins, CO's strategic roadmap to adopt cleaner transportation through leadership, partnership, and outreach.
+</div>
+
+In 2018, Fort Collins developed their [Electric Vehicle Readiness Roadmap](https://www.fcgov.com/fcmoves/ev-readiness-roadmap), a comprehensive strategy with clear goals and defined roles for city departments, private sector partners, and community members for adopting electrified transit. This wasn't about installing hardware and hoping for the best. Their vision takes things a step further by creating a path for less car dependence by shifting land use patterns to shorten trips and providing multimodal public transit, promoting walkable cities that make room for cleaner personal vehicles.
+
+[FC Moves](https://www.fcgov.com/fcmoves/) became the lead department, but they established an interdepartmental working group that meets regularly for ongoing coordination. No more siloed efforts where the planning department doesn't talk to utilities and utilities don't coordinate with economic development. Every public and private partner communicates with one another to help the community smoothly go electric. Through community outreach programs they're able to educate on what going electric actually means for drivers and gain valuable feedback on their plans.
 
 ### Leading by Example
 
-Here's where Fort Collins gets the community engagement piece right: they didn't ask residents to go electric while continuing to drive gas vehicles themselves. The city [added 40 EVs and 3 full-sized electric transit buses](https://www.americaisallin.com/fort-collins-colorado-leading-boldly-climate-action) to their municipal fleet, proving that electric vehicles work for daily city operations.
+Citizens will also witness change in real-time as city fleets and city officials go electric as well. The city won't advocate for residents to go electric without making the switch themselves first. The city [added 40 EVs and 3 full-sized electric transit buses](https://www.americaisallin.com/fort-collins-colorado-leading-boldly-climate-action) to their municipal fleet, committing to their plan and proving the validity of electric vehicles for daily city operations.
 
-This matters more than you might think. When residents see city vehicles running electric routes, charging at public stations, and handling everything from daily commutes to emergency services, it removes the "experimental" stigma from EV adoption.
+This commitment to action by the city speaks volumes. When residents see city vehicles running electric routes, charging at public stations, and handling everything from daily commutes to emergency and utility services, it removes the "experimental" stigma from EV adoption and gives the technology credibility.
 
 ### Policy That Enables Rather Than Restricts
 
-Smart policy makes electrification easier, not harder. Fort Collins updated building codes to require EV-ready infrastructure in new single-family homes—conduit from electrical panels to garages prepared for Level 2 charging. Simple changes like this mean residents don't have to retrofit their homes later when they're ready to go electric.
+Smart policy can be catalyst for electrification, making adoption easy. Fort Collins updated building codes to require EV-ready infrastructure in new single-family homes—conduit from electrical panels to garages prepared for Level 2 charging. Simple changes like this mean residents don't have to retrofit their homes later when they're ready to go electric.
 
 ### Making Strategic Partnerships Pay Off
 
@@ -68,31 +78,29 @@ Fort Collins' systematic approach paid dividends when they applied for grants. T
 
 They also participate in [Drive Clean Colorado](https://www.fcgov.com/utilities/residential/conserve/EVs), recognizing that regional coordination creates better outcomes than isolated municipal efforts.
 
-**What Fort Collins teaches us:** Comprehensive planning and interdepartmental coordination create better outcomes than ad-hoc installations. Start with strategy, then build infrastructure.
+**What Fort Collins teaches us:** Comprehensive planning and interdepartmental coordination create better outcomes than ad-hoc installations. Start with strategy, intention, and leading by example, building public confidence in EV adoption and infrastructure.
 
 ---
 
 ## Northern New Jersey: The Regional Cooperation Model
 
-The [North Jersey Transportation Planning Authority (NJTPA)](https://montclair.hosted.civiclive.com/government/departments/environmental_affairs/energy___climate_change/electric_vehicle_planning_project_for_montclair) took a methodical approach that demonstrates how regional cooperation creates more robust results than isolated municipal efforts.
+The [North Jersey Transportation Planning Authority (NJTPA)](https://montclair.hosted.civiclive.com/government/departments/environmental_affairs/energy___climate_change/electric_vehicle_planning_project_for_montclair) took a methodical approach that demonstrates how regional cooperation can create more robust results than isolated municipal efforts.
 
 ### Learning Together, Not Separately
 
 Rather than letting each municipality reinvent the wheel, NJTPA partnered with three pilot communities—Montclair Township, Town of Secaucus, and Woodbridge Township—to develop comprehensive local readiness plans. They shared lessons learned and created a detailed [Alternative Fuel Vehicle Readiness Guidebook](https://www.njtpa.org/NJTPA/media/Documents/Planning/Regional-Programs/Alternative-Fuel-Vehicles/NJTPA-AFV-Readiness-Guidebook_Dec2017_FINAL(1).pdf) that any municipality can use.
 
-This isn't just about efficiency (though that matters). When communities learn together, they develop better solutions and avoid costly mistakes that others have already solved.
+This cooperative model shows the effectiveness of collaboration, combining resources, learnings, and expertise to build robust charging infrastructure. When communities learn together, they develop better solutions and avoid costly mistakes that others have already solved.
 
 ### Addressing Equity From Day One
 
-Here's where NJTPA's regional approach really shines: they tackled the biggest barrier to widespread EV adoption head-on. Charging at multi-unit dwellings isn't just a technical challenge—it's an equity issue. Renters face fundamentally different obstacles than homeowners, and any serious electrification strategy has to account for that reality.
+An important aspect of the NJTPA's regional approach is their focus on providing guidance charging at multi-unit dwellings (MUDs). While their is no standard model for installing charging at multi-unit dwellings, they address options for different styles of MUDs and even age. Their appendix in their Guidebook also provides significant resources and examples for MUDs to follow.
 
-Their plans specifically address challenges renters face and include strategies for serving low-income communities. Because the truth is, if electrification only works for affluent homeowners, it's not really working.
+Renters face fundamentally different obstacles than homeowners, and any serious electrification strategy has to account for that reality. Their guidance acknowledges that more affluent MUDs (newer developments or significantly renovated) will likely be the first to adopt EV Charging as amenities, but as technology improves and becomes more affordable other MUDs will be able to take advantage from onsite Level 2 charging.
 
 ### Stakeholder Engagement That Actually Engages
 
-What made their approach effective was bringing diverse voices into the planning process from day one—local government officials, fleet managers, utilities, businesses, and community organizations. Not just token consultation, but genuine involvement in shaping the strategy.
-
-This early engagement prevented the pushback and confusion that often derail infrastructure projects later.
+What made their approach effective was bringing diverse voices into the planning process from day one—local government officials, fleet managers, utilities, businesses, and community organizations. Like Fort Collins, CO real partnerships and collaborations with industry, utilities, and the community created the right "lead-by-example" culture that are hallmarks of successful EV infrastructure strategies.
 
 **What Northern New Jersey teaches us:** Regional coordination and comprehensive stakeholder engagement create more equitable, robust outcomes than single-city efforts. Plan together, succeed together.
 
@@ -104,15 +112,15 @@ North Carolina approached electrification as an economic development opportunity
 
 ### Making the Economic Case
 
-Their strategic approach attracted [$20.4 billion in private investments and created 16,300 jobs](https://electrificationcoalition.org/work/state-ev-policy/north-carolina-ev-policy/) in the EV sector. This wasn't accidental—it resulted from treating electrification as economic policy, not just environmental policy.
+Their strategic approach attracted [$20.4 billion in private investments and created 16,300 jobs](https://electrificationcoalition.org/work/state-ev-policy/north-carolina-ev-policy/) in the EV sector. North Carolina intentionally framed this investment in electrification as an economic policy rather than purely environmental.
 
-When you frame EV infrastructure as economic development, you attract broader political support and business engagement. That matters for long-term success.
+This framing of EV infrastructure as economic development, helps attract broader political support and business engagement than if the development were advocated as purely environmental. That matters for long-term success and public buy-in.
 
 ### Strategic Corridor Development
 
-North Carolina secured [$109 million over five years for highway charging corridors](https://electrificationcoalition.org/work/state-ev-policy/north-carolina-ev-policy/), with plans to install fast, reliable charging every 50 miles along almost 4,000 miles of alternative fuel corridors. All charging sites located within a mile of highways.
+North Carolina secured [$109 million over five years for highway charging corridors](https://electrificationcoalition.org/work/state-ev-policy/north-carolina-ev-policy/) through NEVI funding, with plans to install fast, reliable charging every 50 miles along almost 4,000 miles of alternative fuel corridors. While unfortunately, much of this federal funding was put under freeze in February of 2025, the states that were promised NEVI funding like North Carolina are still able to precede with awarding projects. They are also winning in the courts and will be able to access this promised funding over the next few years as highlighted in Sean Jain's post on [recent guidance from the Federal Highway Administration](https://www.lexblog.com/2025/09/18/new-federal-highway-administration-guidance-on-ev-infrastructure-what-comes-next/).
 
-This corridor approach serves multiple strategic purposes:
+As the bipartisan NEVI program intended, this corridor approach serves multiple strategic purposes:
 - Reduces range anxiety for long-distance travel
 - Positions North Carolina as EV-friendly for tourism and business travel  
 - Creates predictable, high-utilization charging locations
@@ -124,22 +132,20 @@ Smart politics means showing, not just telling. North Carolina received [145 ele
 
 ### Building Business Community Support  
 
-They secured support from [28 business leaders who signed a letter](https://electrificationcoalition.org/wp-content/uploads/2023/01/Letter-NC-MHD-Electrification-June-2021.pdf) urging acceleration of medium- and heavy-duty vehicle electrification. This private sector endorsement demonstrates that electrification isn't just government policy—it's good business.
+They secured support from [28 business leaders who signed a letter](https://electrificationcoalition.org/wp-content/uploads/2023/01/Letter-NC-MHD-Electrification-June-2021.pdf) urging acceleration of medium- and heavy-duty vehicle electrification. This private sector endorsement demonstrates that electrification is becoming essential to good business operations and strengthens North Carolina's strategy to focus on economic policy development as well as environmental.
 
 ### Not Forgetting Rural Communities
 
-What's particularly impressive is their focus on rural areas. Through partnerships with organizations like the [Southern Alliance for Clean Energy](https://electrificationcoalition.org/work/state-ev-policy/north-carolina-ev-policy/), they've ensured rural communities aren't left behind in the transition.
+What's particularly impressive is their focus on rural areas. Through partnerships with organizations like the [Southern Alliance for Clean Energy](https://cleanenergy.org/resource/transportation-electrification-in-the-southeast-sixth-annual-report/), they've [ensured rural communities aren't left behind in the transition](https://cleanenergy.org/news/dont-leave-money-on-the-table-and-rural-communities-behind/).
 
 By 2023, North Carolina topped [70,000 electric vehicle registrations](https://electrificationcoalition.org/work/state-ev-policy/north-carolina-ev-policy/), proving their comprehensive approach works.
-
-**What North Carolina teaches us:** Framing electrification as economic development attracts broader support while addressing rural equity prevents gaps. Make it about jobs and opportunity, not just environmental goals.
 
 ### Becoming the Charging Infrastructure Innovation Hub
 
 What makes North Carolina's story even more compelling is how their strategic approach to electrification has attracted not just vehicle manufacturing, but the entire charging infrastructure ecosystem. The state is rapidly becoming the North American headquarters for global charging technology leaders.
 
 **Global Players Choosing North Carolina:**
-[Alpitronic](https://www.electrive.com/2024/08/13/alpitronic-to-manufacture-dc-charging-stations-in-north-carolina/), the German leader in DC fast charging technology, selected North Carolina for their North American manufacturing operations. [Kempower](https://kempower.com/news/kempower-establishes-north-american-headquarters-in-durham/), the Finnish charging solutions innovator known for their modular and efficient charging systems, established their U.S. headquarters in Durham.
+[Alpitronic](https://www.electrive.com/2024/09/23/alpitronic-opens-us-headquarters-in-north-carolina/), the German leader in DC fast charging technology, selected North Carolina for their North American manufacturing operations. [Kempower](https://kempower.com/news/kempower-grand-opening-in-durham-north-carolina/), the Finnish charging solutions innovator known for their modular and efficient charging systems, established their U.S. headquarters in Durham.
 
 Most significantly, [IONNA](https://www.ionna.com/), the joint venture by BMW, GM, Honda, Hyundai, Kia, Mercedes-Benz, and Stellantis, chose North Carolina as their operational hub. IONNA represents something crucial: major automakers taking direct ownership of the charging experience rather than leaving it entirely to third-party networks.
 
@@ -147,9 +153,7 @@ Most significantly, [IONNA](https://www.ionna.com/), the joint venture by BMW, G
 IONNA's focus on creating a premium, reliable charging network specifically designed for the American market addresses many of the pain points current EV drivers face—inconsistent payment systems, varying reliability, and fragmented user experiences. When automakers invest directly in charging infrastructure, they're acknowledging that vehicle quality alone isn't enough; the entire ownership experience matters.
 
 **A Different Kind of Manufacturing Strategy:**
-While Georgia attracts vehicle manufacturing, North Carolina is becoming the innovation center for the infrastructure that makes those vehicles practical for daily use. This represents a complementary but distinct approach—instead of building the cars, they're building the ecosystem that makes car ownership seamless.
-
-This infrastructure innovation hub approach validates that charging technology itself represents significant economic opportunity, not just the vehicles that use it.
+While they have also attracted other EV manufacturing investments (vehicle, EV battery, and other critical components), North Carolina is becoming the innovation center for EV infrastructure. While other southern states like Georgia are positioning themselves as hubs of vehicle manufacturing as well see soon, North Carolina has distinguished itself by building the ecosystem that makes EV car ownership seamless.
 
 **What North Carolina teaches us:** Framing electrification as economic development attracts broader support while addressing rural equity prevents gaps. Make it about jobs and opportunity, not just environmental goals.
 
@@ -158,39 +162,33 @@ This infrastructure innovation hub approach validates that charging technology i
 
 ## Georgia: The Manufacturing-Infrastructure Balance Model
 
-As a Georgia resident and EV driver, I've watched our state's electrification story unfold with genuine excitement and careful observation. Georgia's experience perfectly illustrates both the incredible opportunity and the real challenge of balancing major EV manufacturing investments with strategic charging infrastructure deployment that actually serves people like me and my neighbors.
+As a Georgia resident and EV driver, I've watched our state's electrification story unfold with genuine excitement and careful observation. Georgia's experience perfectly illustrates both the incredible opportunity and the real challenge of balancing major EV manufacturing investments with strategic charging infrastructure deployment that actually serves people like myself and other Georgia residents.
 
 ### The Manufacturing Investment Wave That Has Me Excited
 
-Georgia's EV manufacturing story reads like an economic development dream—and as someone who drives a Hyundai IONIQ 5, I couldn't be more thrilled about what's happening in my home state. [Hyundai Motor Group committed $5.54 billion](https://gov.georgia.gov/press-releases/2022-05-20/gov-kemp-hyundai-motor-group-invest-554-billion-georgia-first-fully) for their first fully dedicated electric vehicle and battery facility near Savannah, creating approximately 8,100 jobs. Having experienced firsthand how well-engineered Hyundai's EV technology is, seeing them choose Georgia for this massive investment feels like validation of both our state's business climate and the future of electric mobility.
+When Georgia announced that Hyundai Motor Group planned to build their meta plant near Savannah, I couldn't have been more excited at the time as a prospective IONIQ 5 owner. [Hyundai Motor Group's $5.54 billion commitment in 2024](https://gov.georgia.gov/press-releases/2022-05-20/gov-kemp-hyundai-motor-group-invest-554-billion-georgia-first-fully) for their first fully dedicated electric vehicle and battery facility near Savannah has hence materialized, creating approximately 8,100 jobs. After owning my IONIQ 5 for nearly a year and experiencing a true effort from Hyundai to build great EV's, I've become a fan and I'm hopeful for the potential the states's partnership with Hyundai, a massive investment to a future of electric mobility.
 
-But what really gets me excited is [Rivian breaking ground on their $5 billion plant near Social Circle](https://www.energy.gov/lpo/articles/doe-announces-657-billion-loan-rivian-support-construction-ev-manufacturing-facility) with federal backing of a $6.57 billion loan, expected to create 7,500 operations jobs. As someone who's followed Rivian's journey from startup to public company, their choice to build their second major facility here in Georgia feels significant. The R2 and R3 models they'll eventually produce there represent exactly the kind of accessible, adventure-ready EVs that could accelerate mainstream adoption.
+> **NOTE:** I felt it important to acknowledge unfortunate events September 2025 at the Hyundai plant. You can read more about this further down in [Building Strong International Partnerships Through Education and Support](#building-strong-international-partnerships-through-education-and-support).
+
+Another investment that has me arguably more thrilled is [Rivian's breaking ground on their $5 billion plant near Social Circle, GA](https://stories.rivian.com/georgia-groundbreaking-manufacturing-facility) with federal backing of a [$6.57 billion loan](https://www.energy.gov/lpo/articles/doe-announces-657-billion-loan-rivian-support-construction-ev-manufacturing-facility), expected to create 7,500 operations jobs. As someone who's followed Rivian's journey from startup to public company, lining up at their space in Atlanta to see their R2 and R3 prototypes, I've been thrilled by their investment in my home state. The R2 and R3 models they'll eventually produce there represent exactly the kind of accessible, adventure-ready EVs that could accelerate mainstream adoption.
 
 Combined, these projects represent over $11 billion in manufacturing investment and nearly 16,000 jobs right here in Georgia. These aren't just impressive numbers for headlines—they represent real economic opportunity and a signal that Georgia is serious about leading the electric transition.
 
-### But Manufacturing ≠ Charging Infrastructure (A Reality I Know Well)
+### Systematic Infrastructure Strategy Complimenting Manufacturing Investment
 
-Here's where my experience as an EV driver in Georgia becomes relevant: having world-class EV manufacturing in your state doesn't automatically solve your daily charging challenges. That Hyundai plant in Savannah doesn't help when I need to charge while visiting friends in Atlanta and find that the local Electrify America station is at full capacity. A Rivian facility in Social Circle won't address the range anxiety my family members express when considering their first electric vehicle.
+While all this investment is exciting, it's important to recognize that this doesn't guarantee reliable charging infrastructure in the places EV drivers need. Hyundai and Rivian I know are committed to building those robust charging networks through IONNA and the Rivian Adventure Network, but investment from the state is also needed to address the range anxiety for those hesitant to go electric.
 
-This isn't criticism—it's reality. Manufacturing creates the economic foundation and demonstrates commitment, but strategic infrastructure is what serves actual people trying to live electric in their daily lives.
+Manufacturing creates the economic foundation and demonstrates commitment, but strategic infrastructure is what will serve actual people trying to live electric in their daily lives. Rather than assuming manufacturing would drive adoption, Georgia developed comprehensive infrastructure strategies that actually serve people:
 
-### Systematic Infrastructure Strategy
+**Statewide Corridor Development:** Under [Georgia's NEVI infrastructure plan](https://electrificationcoalition.org/work/state-ev-policy/georgia/), the state will spend $135 million between 2022 and 2027 turning major interstate highways—I-75, I-85, I-20, and I-95—into Alternative Fuels Corridors with charging every 50 miles.
 
-Rather than assuming manufacturing would drive adoption, Georgia developed comprehensive infrastructure strategies that actually serve people:
-
-**Statewide Corridor Development:** Under [Georgia's NEVI infrastructure plan](https://qmerit.com/blog/electric-vehicle-charging-in-georgia/), the state will spend $5 billion between 2022 and 2027 turning major interstate highways—I-75, I-85, I-20, and I-95—into Alternative Fuels Corridors with charging every 50 miles.
-
-**Regional Coordination for Real Communities:** The [Atlanta Regional Commission received $6.1 million in federal funding](https://www.ossoff.senate.gov/press-releases/sen-ossoff-expanding-electric-vehicle-charging-infrastructure-through-bipartisan-infrastructure-law/) to install 300-400 EV charging ports across metro Atlanta. This isn't random placement—it's [Level 2 chargers at 75 to 100 locations](https://atlantaregional.org/what-we-do/transportation-planning/electric-vehicle-charging-program/), with each featuring a minimum of four charging ports at everyday destinations like shopping centers, grocery stores, and government service centers.
-
-Emphasis placed on underserved communities that might be overlooked by private market deployment alone.
-
-**Smart City Innovation:** Cities like Peachtree Corners worked with [eMobility consultants to create comprehensive electrification plans](https://georgia.org/mobility-infrastructure), installing state-of-the-art fast-charging plazas capable of charging up to 16 vehicles simultaneously. This isn't just about hardware—it's about creating a model other municipalities can adapt.
+**Regional Coordination for Real Communities:** The [Atlanta Regional Commission received $6.1 million in federal funding](https://www.ossoff.senate.gov/press-releases/sen-ossoff-expanding-electric-vehicle-charging-infrastructure-through-bipartisan-infrastructure-law/) to install 300-400 EV charging ports across metro Atlanta. They follow the strategic and cost-effective approach I've advocated for by planing to install [Level 2 chargers at 75 to 100 locations](https://atlantaregional.org/what-we-do/transportation-planning/electric-vehicle-charging-program/) with each featuring a minimum of four charging ports at everyday destinations like shopping centers, grocery stores, and government service centers. Focusing on locations where people park regularly for an hour or so multiple times throughout the week allowing them to top-up without having to visit a DCFC station.
 
 ### Strategic Utility Partnerships
 
 [Georgia Power's Make Ready Infrastructure Program](https://www.georgiapower.com/business/products-programs/business-solutions/electric-transportation-business-programs/make-ready.html) shows how utilities can enable strategic placement rather than hinder it. They offer up to $300,000 in funding per qualifying project to businesses, installing and maintaining electrical infrastructure up to charger ports.
 
-This removes the biggest barrier for businesses wanting to add charging—the upfront electrical work that often costs more than the chargers themselves.
+By covering the upfront electrical work they remove the biggest barrier for businesses wanting to add charging that often costs more than the chargers themselves.
 
 ### Beyond Individual Projects: Systems Thinking
 
@@ -204,27 +202,21 @@ What makes Georgia's approach noteworthy is integration. They're not treating ma
 
 Georgia now [leads the Southeast with 4.4 EV registrations per 1,000 registered automobiles](https://georgia.org/mobility-infrastructure)—the only southeastern state approaching the national average of 4.8. The state features [nearly 2,000 charging locations with over 3,400 individual outlets](https://qmerit.com/location/georgia/) to serve more than 30,000 electric vehicle drivers.
 
-### What I'd Love to See More Of
-
-As an EV driver who regularly travels throughout Georgia, I'm genuinely grateful for the increased investment in charging infrastructure that's happening alongside these manufacturing developments. The progress is real and meaningful. But I'd love to see even more strategic placement that serves the daily needs of Georgians choosing electric mobility.
-
-More Level 2 charging at the places where we already spend time—grocery stores, gyms, downtown districts, and workplaces. Better coordination between the private charging networks so that finding available charging becomes as simple as finding a gas station. Continued focus on underserved communities and rural areas that might otherwise be overlooked.
-
 ### Building Strong International Partnerships Through Education and Support
 
-Recent events at the Hyundai facility, including the [ICE raid that resulted in arrests of over 300 South Korean citizens](https://www.cbsnews.com/news/georgia-plant-hyundai-ev-expansion-ice-raid/), highlight the importance of creating a safe and welcoming environment for foreign investment while ensuring clear communication about regulatory requirements.
+In September of 2025 an [ICE raid was conducted at the new Hyundai Meta-Plant that resulted in arrests of over 300 South Korean citizens](https://www.cbsnews.com/news/georgia-plant-hyundai-ev-expansion-ice-raid/). This unfortunate event highlights the importance of creating a safe and welcoming environment for foreign investment while ensuring clear communication about regulatory requirements.
 
 As Georgians, we should be proud that South Korea chose our state for this massive $5.54 billion investment, representing one of the largest foreign direct investments in Georgia's history. This partnership brings advanced manufacturing expertise, creates thousands of jobs, and positions Georgia as a leader in clean energy technology. Protecting and nurturing these relationships is crucial for Georgia's economic future.
 
 While visa compliance is important, any regulatory issues could have been resolved through proper education and correction rather than enforcement actions that create uncertainty for international partners. Both government agencies and business communities need better frameworks for supporting international manufacturing partnerships. This includes providing clear guidance on visa requirements for specialized technical workers, offering proactive compliance assistance, and creating pathways for addressing any issues through collaborative problem-solving.
 
-The goal should be strengthening Georgia's reputation as a welcoming destination for clean energy investment. When international partners like Hyundai feel supported and confident operating in Georgia, it creates a positive environment that can attract additional clean energy investments to our state.
+The goal should be strengthening Georgia's reputation as a welcoming destination for clean energy investment that bring needed training for new positions for Georgians. When international partners like Hyundai feel supported and confident operating in Georgia, it creates a positive environment that can attract additional clean energy investments to our state.
 
 ### Moving Forward Together
 
 The foundation is strong, and the momentum is building. With the right continued investment in thoughtful infrastructure placement, combined with supportive frameworks for international partnerships, Georgia could become a model for how manufacturing investment and strategic charging deployment work together to serve real communities while maintaining Georgia's reputation as a premier destination for clean energy investment.
 
-**What Georgia teaches us:** Manufacturing investments create jobs and economic momentum, but require parallel strategic infrastructure investment to convert that economic activity into actual EV adoption and community benefit. The combination of both creates the conditions where residents like me can live electric confidently while new manufacturing facilities produce the vehicles we'll drive.
+**What Georgia teaches us:** Manufacturing investments create jobs and economic momentum, but require parallel strategic infrastructure investment to convert that economic activity into actual EV adoption and community benefit. The combination of both creates the conditions where residents like me can live electric confidently while new manufacturing facilities produce the vehicles we'll love to drive.
 
 ---
 
@@ -251,7 +243,7 @@ They updated codes, streamlined permitting, and created supportive regulatory fr
 Each addressed how to serve renters, low-income communities, and rural areas rather than only focusing on affluent homeowners. Electrification that only works for some people isn't really working.
 
 ### 7. Economic Integration Creates Broader Support
-They connected EV infrastructure to broader economic development goals—job creation, business attraction, strategic corridor development. Environmental benefits alone often aren't enough for sustained political support.
+They connected EV infrastructure to broader economic development goals of job creation, business attraction, and strategic corridor development. Environmental benefits alone often aren't enough for sustained political support, but economic benefits are hard to ignore.
 
 ## Applying These Lessons to Your Community
 
@@ -269,36 +261,10 @@ They connected EV infrastructure to broader economic development goals—job cre
 
 **Engage stakeholders continuously.** Make community engagement an ongoing process of collaboration, not just occasional consultation sessions.
 
-## The Question Isn't Whether, But How
+## Electrification is possible and the models are out there!
 
-These four regions prove that comprehensive electrification is achievable with the right approach. Manufacturing investments are exciting and important, but they're just the beginning of the story. The communities that succeed in electrification are the ones that understand manufacturing creates the economic foundation, while strategic infrastructure serves the people.
+These four regions prove that comprehensive electrification is achievable with the right approach. Manufacturing investments are exciting and important, but they're just the beginning of the story. The communities that succeed in electrification are the ones that understand manufacturing creates the economic foundation, while strategic infrastructure and community engagements serves the people.
 
-Your community's electrified future depends on balancing both: celebrating the economic opportunities while building the charging networks your residents actually need. The question isn't whether your city can do it—it's which model fits your community's circumstances best, and whether you're ready to move beyond the ribbon-cutting ceremonies to build infrastructure that works.
+Your community's electrified future depends on balancing both celebrating the economic opportunities while also building the charging networks your residents actually need. The adoption of proven strategies and model's that work best for your community can prepare your city to become electrified sooner than you think. It's an economic and sustainable opportunity worth venturing into.
 
 *Next in this series: We'll explore technological solutions that can help cities overcome common barriers to EV infrastructure deployment and management.*
-
----
-
-## Sources and Further Reading
-
-**Fort Collins Model:**
-- [City of Fort Collins Electric Vehicle Readiness Roadmap](https://www.fcgov.com/fcmoves/ev-readiness-roadmap)
-- [FC Moves Department Overview](https://www.fcgov.com/fcmoves/)
-- [Climate Action Profile](https://www.americaisallin.com/fort-collins-colorado-leading-boldly-climate-action)
-- [Build America Center Case Study](https://bac.umd.edu/fort-collins-smart-grid-electric-vehicle-charge-management-solution/)
-
-**Northern New Jersey Model:**
-- [NJTPA Alternative Fuel Vehicle Readiness Guidebook](https://www.njtpa.org/NJTPA/media/Documents/Planning/Regional-Programs/Alternative-Fuel-Vehicles/NJTPA-AFV-Readiness-Guidebook_Dec2017_FINAL(1).pdf)
-- [Montclair Township EV Planning Project](https://montclair.hosted.civiclive.com/government/departments/environmental_affairs/energy___climate_change/electric_vehicle_planning_project_for_montclair)
-
-**North Carolina Model:**
-- [Electrification Coalition - North Carolina EV Policy](https://electrificationcoalition.org/work/state-ev-policy/north-carolina-ev-policy/)
-- [Business Leaders Letter on Medium/Heavy-Duty Electrification](https://electrificationcoalition.org/wp-content/uploads/2023/01/Letter-NC-MHD-Electrification-June-2021.pdf)
-
-**Georgia Model:**
-- [Georgia Department of Economic Development - EMIA Infrastructure](https://georgia.org/mobility-infrastructure)
-- [U.S. Department of Energy - Rivian Loan Announcement](https://www.energy.gov/lpo/articles/doe-announces-657-billion-loan-rivian-support-construction-ev-manufacturing-facility)
-- [Governor Kemp - Hyundai Investment Announcement](https://gov.georgia.gov/press-releases/2022-05-20/gov-kemp-hyundai-motor-group-invest-554-billion-georgia-first-fully)
-- [Senator Ossoff - Infrastructure Funding Announcements](https://www.ossoff.senate.gov/press-releases/sen-ossoff-expanding-electric-vehicle-charging-infrastructure-through-bipartisan-infrastructure-law/)
-- [Atlanta Regional Commission - EV Charging Program](https://atlantaregional.org/what-we-do/transportation-planning/electric-vehicle-charging-program/)
-- [Georgia Power - Make Ready Infrastructure Program](https://www.georgiapower.com/business/products-programs/business-solutions/electric-transportation-business-programs/make-ready.html)
