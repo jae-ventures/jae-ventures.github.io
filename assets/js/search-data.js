@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-building-community-support-for-ev-infrastructure",
+        },{id: "post-more-than-ev-manufacturing-hype",
+      
+        title: "More Than EV Manufacturing Hype",
+      
+      description: "When states land billion-dollar EV manufacturing deals, that&#39;s just the beginning. Here&#39;s how Fort Collins, Northern New Jersey, North Carolina, and Georgia are building the charging networks that actually serve people.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/more-than-ev-manufacturing-hype/";
+        
+      },
+    },{id: "post-building-community-support-for-ev-infrastructure",
       
         title: "Building Community Support for EV Infrastructure",
       
