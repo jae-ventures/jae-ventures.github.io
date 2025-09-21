@@ -16,8 +16,7 @@ categories:
 </div>
 
 <div class="caption">
-    Image: Photos from Rivian's breaking ground celebration at new R2 and R3 plant in Social Circle.<br/>
-    Strategic EV infrastructure planning requires balancing manufacturing investments with thoughtful charging placement that serves real communities.
+    Image: Photos from Rivian's breaking ground celebration at new R2 and R3 plant in Social Circle, GA. Strategic EV infrastructure planning requires balancing manufacturing investments with thoughtful charging placement that serves real communities.
 </div>
 
 ## When the Ribbon-Cutting Ends, the Real Work Begins
@@ -28,13 +27,14 @@ Internal combustion vehicles went through a similar period in their mass adoptio
 
 In our previous posts, we covered [how to get started with Phase 1 charging infrastructure](https://jordanventures.tech/blog/2025/getting-started-with-city-ev-infrastructure/) and [building community support](https://jordanventures.tech/blog/2025/building-community-support-for-ev-charging-infrastructure/) for your projects. We'll now examine how four regions successfully spearheaded significant investment in EV manufacturing and announcements while also developing comprehensive charging networks that actually work for people.
 
-## TL;DR
-- one-liner key takeaway for Colorado
-- one-liner key takeaway for Northern New Jersey
-- one-liner key takeaway for North Carolina
-- one-liner key takeaway for Georgia
-- one-liner key takeaway covering commonalities in each regions approach
-- one-liner key takeaway covering conclusion
+## TL;DR: The Real Winners Create Both Manufacturing Jobs AND Usable Charging Networks
+
+- Colorado: Systematic interdepartmental planning beats scattered installations
+- Northern New Jersey: Regional cooperation and equity focus prevent charging deserts
+- North Carolina: Economic development framing attracts broader political support than environmental arguments alone
+- Georgia: Manufacturing creates momentum, but parallel infrastructure investment serves actual communities
+- Common thread: All four regions led by example through fleet electrification and built partnerships rather than working in isolation
+- Bottom line: Manufacturing celebrates futures; strategic infrastructure serves today's EV drivers
 
 ## Four Models That Get It Right
 
@@ -174,7 +174,7 @@ Another investment that has me arguably more thrilled is [Rivian's breaking grou
 
 Combined, these projects represent over $11 billion in manufacturing investment and nearly 16,000 jobs right here in Georgia. These aren't just impressive numbers for headlines—they represent real economic opportunity and a signal that Georgia is serious about leading the electric transition.
 
-### Systematic Infrastructure Strategy Complimenting Manufacturing Investment
+### Systematic Infrastructure Strategy Complementing Manufacturing Investment
 
 While all this investment is exciting, it's important to recognize that this doesn't guarantee reliable charging infrastructure in the places EV drivers need. Hyundai and Rivian I know are committed to building those robust charging networks through IONNA and the Rivian Adventure Network, but investment from the state is also needed to address the range anxiety for those hesitant to go electric.
 
@@ -190,18 +190,6 @@ Manufacturing creates the economic foundation and demonstrates commitment, but s
 
 By covering the upfront electrical work they remove the biggest barrier for businesses wanting to add charging that often costs more than the chargers themselves.
 
-### Beyond Individual Projects: Systems Thinking
-
-What makes Georgia's approach noteworthy is integration. They're not treating manufacturing and infrastructure as separate initiatives:
-
-- Strategic installations include [large-scale charging hubs positioned between downtown Atlanta and Hartsfield-Jackson Atlanta International Airport](https://georgia.org/mobility-infrastructure) to serve fleet electrification programs and rideshare services
-- [$15 million for Middle Georgia Regional Commission](https://www.ossoff.senate.gov/press-releases/news-sens-ossoff-rev-warnock-reps-bishop-williams-expanding-ev-charging-infrastructure-across-georgia-through-bipartisan-infrastructure-law/) to install over 200 publicly available EV chargers across rural and smaller cities  
-- [$11.8 million for Atlanta airport](https://www.ossoff.senate.gov/press-releases/news-sens-ossoff-rev-warnock-reps-bishop-williams-expanding-ev-charging-infrastructure-across-georgia-through-bipartisan-infrastructure-law/) to create a DC Fast Charging Hub for rental cars, ride-share drivers, and airport fleets
-
-### The Results Speak
-
-Georgia now [leads the Southeast with 4.4 EV registrations per 1,000 registered automobiles](https://georgia.org/mobility-infrastructure)—the only southeastern state approaching the national average of 4.8. The state features [nearly 2,000 charging locations with over 3,400 individual outlets](https://qmerit.com/location/georgia/) to serve more than 30,000 electric vehicle drivers.
-
 ### Building Strong International Partnerships Through Education and Support
 
 In September of 2025 an [ICE raid was conducted at the new Hyundai Meta-Plant that resulted in arrests of over 300 South Korean citizens](https://www.cbsnews.com/news/georgia-plant-hyundai-ev-expansion-ice-raid/). This unfortunate event highlights the importance of creating a safe and welcoming environment for foreign investment while ensuring clear communication about regulatory requirements.
@@ -213,6 +201,10 @@ While visa compliance is important, any regulatory issues could have been resolv
 The goal should be strengthening Georgia's reputation as a welcoming destination for clean energy investment that bring needed training for new positions for Georgians. When international partners like Hyundai feel supported and confident operating in Georgia, it creates a positive environment that can attract additional clean energy investments to our state.
 
 ### Moving Forward Together
+
+Georgia now [leads the Southeast with 4.4 EV registrations per 1,000 registered automobiles](https://georgia.org/mobility-infrastructure)—the only southeastern state approaching the national average of 4.8. The state features [nearly 2,000 charging locations with over 3,400 individual outlets](https://qmerit.com/location/georgia/) to serve more than 30,000 electric vehicle drivers.
+
+These numbers are great, but we have a long way to go before we can support the [estimated 30-42 million light-duty vehicles expected to be on the road by 2030](https://www.nrel.gov/news/detail/program/2023/building-the-2030-national-charging-network) according to a National Renewable Energy Laboratory (NREL) study. NREL suspects we will need nearly 28 million charging ports, over 1 million of those being public stations that are a mix of DC fast and Level 2 destination charging. This shows there is no better time to support the future of electric transportation than now.
 
 The foundation is strong, and the momentum is building. With the right continued investment in thoughtful infrastructure placement, combined with supportive frameworks for international partnerships, Georgia could become a model for how manufacturing investment and strategic charging deployment work together to serve real communities while maintaining Georgia's reputation as a premier destination for clean energy investment.
 
