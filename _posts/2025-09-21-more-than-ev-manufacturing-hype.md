@@ -30,7 +30,7 @@ In our previous posts, we covered [how to get started with Phase 1 charging infr
 ## TL;DR: The Real Winners Create Both Manufacturing Jobs AND Usable Charging Networks
 - **Colorado:** Systematic interdepartmental planning beats scattered installations
 - **Northern New Jersey:** Regional cooperation and equity focus prevent charging deserts  
-- **North Carolina:** Economic development framing attracts broader political support than environmental arguments alone
+- **North Carolina:** Cross-sector alliances aligning business, health, and climate interests create durable political support
 - **Georgia:** Manufacturing creates momentum, but parallel infrastructure investment serves actual communities
 - **Common thread:** All four regions led by example through fleet electrification and built partnerships rather than working in isolation
 - **Bottom line:** Manufacturing celebrates futures; strategic infrastructure serves today's EV drivers
@@ -105,19 +105,19 @@ What made their approach effective was bringing diverse voices into planning fro
 
 ---
 
-## North Carolina: The Economic Development Model
+## North Carolina: The Cross-Sector Alliance Model
 
-North Carolina approached electrification as an economic development opportunity, proving that EV infrastructure can drive job creation and business investment while serving environmental goals.
+North Carolina approached electrification by systematically aligning economic development interests with health equity and climate goals, creating a durable coalition that spans traditional political divides.
 
-### Making the Economic Case
+### Building Alliances Across Interest Groups
 
-Their strategic approach attracted [$20.4 billion in private investments and created 16,300 jobs](https://electrificationcoalition.org/work/state-ev-policy/north-carolina-ev-policy/) in the EV sector. North Carolina intentionally framed electrification investment as economic policy rather than purely environmental.
+Their strategic approach attracted [$20.4 billion in private investments and created 16,300 jobs](https://electrificationcoalition.org/work/state-ev-policy/north-carolina-ev-policy/) in the EV sector. Rather than pitching electrification to one constituency at a time, North Carolina demonstrated how EV infrastructure simultaneously serves business competitiveness, community health, and environmental objectives.
 
-Framing EV infrastructure as economic development attracts broader political support and business engagement than purely environmental advocacy. That matters for long-term success and public buy-in.
+This cross-sector alignment created broader political durability than single-issue advocacy. When business leaders, health professionals, and environmental advocates all see their priorities advanced by the same policy, opposition becomes much harder to organize.
 
 ### Strategic Corridor Development
 
-North Carolina secured [$109 million over five years for highway charging corridors](https://electrificationcoalition.org/work/state-ev-policy/north-carolina-ev-policy/) through NEVI funding, with plans to install fast, reliable charging every 50 miles along almost 4,000 miles of alternative fuel corridors. While much of this federal funding was put under freeze in February 2025, states promised NEVI funding like North Carolina can still proceed with awarding projects. They're also winning in courts and will access this promised funding over the next few years, as highlighted in Sean Jain's post on [recent guidance from the Federal Highway Administration](https://www.lexblog.com/2025/09/18/new-federal-highway-administration-guidance-on-ev-infrastructure-what-comes-next/).
+North Carolina secured [$109 million over five years for highway charging corridors](https://electrificationcoalition.org/work/state-ev-policy/north-carolina-ev-policy/) through NEVI funding, with plans to install fast, reliable charging every 50 miles along almost 4,000 miles of alternative fuel corridors. While much of this federal funding was put under freeze in February 2025, states promised NEVI funding like North Carolina can still proceed with awarding projects. They're also winning in courts and will access this promised funding over the next few years, as highlighted in Sean Jain's post on [recent guidance from the Federal Highway Administration](https://www.lexblog.com/2025/09/18/new-federal-highway-administration-guidance-on-ev-infrastructure-what-comes-next/) in the LexBlog.
 
 As the bipartisan NEVI program intended, this corridor approach serves multiple strategic purposes:
 - Reduces range anxiety for long-distance travel
@@ -127,17 +127,19 @@ As the bipartisan NEVI program intended, this corridor approach serves multiple 
 
 ### Demonstration Through Fleet Electrification
 
-Smart politics means showing, not just telling. North Carolina received [145 electric school buses through the Clean School Bus program](https://electrificationcoalition.org/work/state-ev-policy/north-carolina-ev-policy/) across multiple districts. Every day, thousands of students and families see that electric vehicles are reliable and practical for essential services.
+Smart politics means showing, not just telling. North Carolina received [145 electric school buses through the Clean School Bus program](https://electrificationcoalition.org/work/state-ev-policy/north-carolina-ev-policy/) across multiple districts. Every day, thousands of students and families see that electric vehicles are reliable and practical for essential services. These buses simultaneously demonstrate economic viability (job creation in manufacturing and maintenance), health benefits (cleaner air for children), and climate progress (emissions reduction).
 
-### Building Business Community Support  
+### Aligning Business Development with Health Equity
 
-They secured support from [28 business leaders who signed a letter](https://electrificationcoalition.org/wp-content/uploads/2023/01/Letter-NC-MHD-Electrification-June-2021.pdf) urging acceleration of medium- and heavy-duty vehicle electrification. This private sector endorsement demonstrates that electrification is becoming essential for good business operations and strengthens North Carolina's strategy of focusing on economic policy development alongside environmental goals.
+They secured support from [28 business leaders who signed a letter](https://electrificationcoalition.org/wp-content/uploads/2023/01/Letter-NC-MHD-Electrification-June-2021.pdf) urging acceleration of medium- and heavy-duty vehicle electrification. Simultaneously, health professionals emphasized that [trucks are "one of the biggest contributors to pollution in North Carolina" and that reducing pollution would "lead to better health for our population, with lower rates of adverse birth outcomes, asthma exacerbations, lung cancer, and heart disease."](https://governor.nc.gov/news/press-releases/2022/10/25/governor-cooper-signs-executive-order-grow-north-carolinas-clean-energy-economy-supporting-market)
+
+This dual messaging showed that business competitiveness and community health aren't competing priorities—they're mutually reinforcing when it comes to electrification policy.
 
 ### Not Forgetting Rural Communities
 
 What's particularly impressive is their focus on rural areas. Through partnerships with organizations like the [Southern Alliance for Clean Energy](https://cleanenergy.org/resource/transportation-electrification-in-the-southeast-sixth-annual-report/), they've [ensured rural communities aren't left behind in the transition](https://cleanenergy.org/news/dont-leave-money-on-the-table-and-rural-communities-behind/).
 
-By 2023, North Carolina topped [70,000 electric vehicle registrations](https://electrificationcoalition.org/work/state-ev-policy/north-carolina-ev-policy/), proving their comprehensive approach works.
+By 2023, North Carolina topped [70,000 electric vehicle registrations](https://electrificationcoalition.org/work/state-ev-policy/north-carolina-ev-policy/), proving their cross-sector approach works.
 
 ### Becoming the Charging Infrastructure Innovation Hub
 
@@ -154,7 +156,7 @@ IONNA's focus on creating a premium, reliable charging network specifically desi
 **A Different Kind of Manufacturing Strategy:**
 While they've also attracted other EV manufacturing investments (vehicles, batteries, and critical components), North Carolina is becoming the innovation center for EV infrastructure. While other southern states like Georgia position themselves as vehicle manufacturing hubs, North Carolina has distinguished itself by building the ecosystem that makes EV ownership seamless.
 
-**What North Carolina teaches us:** Framing electrification as economic development attracts broader support while addressing rural equity prevents gaps. Make it about jobs and opportunity, not just environmental goals.
+**What North Carolina teaches us:** Cross-sector alliances that align economic development, health equity, and climate goals create more durable political support than single-issue advocacy. Show how electrification serves multiple community priorities simultaneously rather than asking stakeholders to choose between competing interests.
 
 ---
 
