@@ -263,7 +263,7 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["city-planning", "electrifying-transit", "coding", "human-machine-interaction", "tech", "short-stories", "ai", "autonomous-vehicles"] # these tags will be displayed on the front page of your blog
+display_tags: ["city-planning", "walkable-cities", "electrifying-transit", "coding", "human-machine-interaction", "tech", "short-stories", "ai", "autonomous-vehicles"] # these tags will be displayed on the front page of your blog
 display_categories: ["personal-projects", "research"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
