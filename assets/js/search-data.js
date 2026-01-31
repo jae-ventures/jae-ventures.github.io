@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-more-than-ev-manufacturing-hype",
+        },{id: "post-are-sustainable-lifestyles-possible-in-car-dependent-cities",
+      
+        title: "Are Sustainable Lifestyles Possible in Car Dependent Cities?",
+      
+      description: "An exploration of how sustainable the lifestyle of big city natives could be in car dependent cities like Atlanta. Typically high density leads to more sustainable outcomes for a city, but what if your city is as car dependent as Atlanta? Can Atlantans live sustainably despite their dependence on independent transportation?",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/sustainable-renters-in-car-dependent-cities/";
+        
+      },
+    },{id: "post-more-than-ev-manufacturing-hype",
       
         title: "More Than EV Manufacturing Hype",
       
