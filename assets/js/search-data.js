@@ -23,11 +23,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-are-sustainable-lifestyles-possible-in-car-dependent-cities",
+        },{id: "post-is-a-car-free-lifestyle-possible-in-the-city-of-atlanta",
       
-        title: "Are Sustainable Lifestyles Possible in Car Dependent Cities?",
+        title: "Is a Car-free Lifestyle Possible in the City of Atlanta?",
       
-      description: "An exploration of how sustainable the lifestyle of big city natives could be in car dependent cities like Atlanta. Typically high density leads to more sustainable outcomes for a city, but what if your city is as car dependent as Atlanta? Can Atlantans live sustainably despite their dependence on independent transportation?",
+      description: "An exploration of the possibilities of living car-free in a city as car-dependent as Atlanta. I detail my delusions in my urban exploration of Atlanta, navigating the most walkable areas of the city by foot, taking some robotaxis along the way.",
       section: "Posts",
       handler: () => {
         
