@@ -26,11 +26,11 @@ The story could end there. "No hope in cleaning up the act of major corporations
 "Problem solved! Let's just redesign all of our cities to be walkable paradises with public transit to fill in for longer distances!" Ha ha! "This is America" as Childish Gambino would say. If I thought changing the business practices of corporations would be difficult, why did I think challenging politicians, NIMBYs, and lobbyists would be any easier? Well, the city of Atlanta, one of the most car-dependent cities in the nation, began to give me hope. I slowly began to watch a new identity for the city of Atlanta form around the bustling rail to trail development known as the Atlata Beltline. The Beltline is 22 mile trail encircling the city of Atlanta, connected by parks, marketplaces, businesses, and housing. Envisioned by Georgia Tech alum Ryan Gravel, but championed and birthed through the efforts of the local community, the Atlanta Beltline offers a peek into a walkable, pedestrian-independent, future for Atlanta, with promises of rail someday along the Beltline.
 
 <p align="center">
-  <img src="/assets/img/YellowMiniCooper_KrogStMarket.jpg" class="img-fluid rounded z-depth-1">
+  <img src="/assets/img/StreetArtNearKrogStreetMarket.jpg" class="img-fluid rounded z-depth-1">
 </p>
 
 <div class="caption">
-    TODO: Replace this with street photos of the street art you also saw 
+    Image taken by Author: Street art on shipping containers lining the Atlanta Beltline near on my way to Krog Street Market
 </div>
 
 In my frequent visits to different sections of the Beltline, particularly near Ponce City Market on the eastside, I've fallen in love with what Atlanta is becoming. It's clear that the Atlanta Beltline brings joy to those who use it daily for transportation and challenges the imagination to consider what car-free living could be like in the city. Okay, that last part might just be me. *I want to know* if it is possible to live like a New Yorker in the city of Atlanta, with hopes of moving to the Beltline very soon. So I've been exploring the most walkable areas of the city by foot and skateboard, getting a vibe for the life of a pedestrian in the city.
