@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is a Car-free Lifestyle Possible in the City of Atlanta?
-date: 2026-02-08 10:00:00
+date: 2026-04-19 14:00:00
 description: An exploration of the possibilities of living car-free in a city as car-dependent as Atlanta. I detail my delusions in my urban exploration of Atlanta, navigating the most walkable areas of the city by foot, taking some robotaxis along the way.
 tags: electrifying-transit, city-planning, walkable-cities
 categories: 
@@ -61,7 +61,7 @@ The Walk and Bike Scores were key metrics to compare my own personal observation
 
 The locations I initially decided to explore over those two days of exploration needed to have a Walk Score of at least 70 and above, making them *Very Walkable*. When you initially search for the city of Atlanta on Walk Score's , however, this would seem a bit challenging as it is considered *Car-Dependent* with an overall Walk Score of 48 and Bike Score of 42. Not a great look, but if you look closely you'll see pockets of bright and dark green on the map, hinting at Atlanta's walkable oases.
 
-So the first four places I planned to visit were Ponce City Market (Old Fourth Ward), Midtown, Georgia Tech, and Atlantic Station. I would later visit some other locations with what I thought were promises of future walkability due to proximity to the Beltline or where quite walkable but just located further from the city center. Below is a peak at the Notion database that I developed with links to the Walk and Bike Score for each locaiton.
+So the first four places I planned to visit were Ponce City Market (Old Fourth Ward), Midtown, Georgia Tech, and Atlantic Station. I would later visit some other locations with what I thought were promises of future walkability due to proximity to the Beltline or where quite walkable but just located further from the city center. Below is a peak at what my Notion database looked like with links to the Walk and Bike Score for each locaiton.
 
 | City/Location | Attraction | Walk/Bike Score |
 |:--|:--|:--|
@@ -73,37 +73,53 @@ So the first four places I planned to visit were Ponce City Market (Old Fourth W
 |Decatur | Old-town feel with bustling community and growth in sight | [60/69](https://www.walkscore.com/GA/Decatur) |
 |Reynoldstown | Access to Eastside Beltline near Krog St Market | [90/70](https://www.walkscore.com/score/loc/lat=33.7455/lng=-84.3585) |
 
-***TODO:*** *Get to the point already!*
+Each location had their own page where I took notes as I walked, checking off a checklist of things the community had or didn't have (like grocery stores within walking distance) and overall general observations in a bulleted list. These locations were each deserving of a detailed page that recognized their individual yet familiar character. The vibe around Ponce City Market (PCM), Midtown, and Georgia Tech (GT) was robots like Waymo and food delivery bots were everywhere. PCM and GT felt more "people-friendly" (as I began coining) due to its many trees and narrower streets that made walking feel more pleasant compared to the towering business buildings in Midtown. Many more people were walking in these areas than you saw in Midtown and chance encounters felt more likely. Drivers were much more used to pedestrians at GT and PCM due to this compared to Midtown for this reason. Drivers knew to look out for you at certain intersections rather than the default reaction of "mow through you" if you were in the way of a regular Atlanta driver.
 
-- Lively scene of pedestrian life near the beltline and walkable areas of Atlanta
-- The evident need of some form of vehicular transportation to go beyond your 15 min city
-- Driving around Atlanta can be a 20 min city by car on the best days, an hour in its worst
+<div class="row mt-2">
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/AtlanticCityStation_StreetSkyline.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/AtlanticCityStation_Park.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-## Why Sustainable Lifestyles in the Big City Matter
+<div class="caption">
+    Image taken by author: Atlanta's rarely foggy skyline from the top of the Millennium Gate Museum in Atlantic Station and the apartments encircling the park.
+</div>
 
-- Despite city dwellers having an overall lower carbon footprint than suburban dwellers
-  - American cities like Atlanta present interesting challenges
-  - They are car dependent and have a lot of people commuting to the city from nearby suburbs
-- So are Atlanta natives sustainable while Atlanta commuters (there's probably a specific word for this) are the issue?
-- Should native Atlantans still try to be more sustainable regardless? Something like how New York City operates where most people use public transit rather than drive?
+Atlantic Station was a curious place for me as it felt upscale with nice apartments and connected beautiful parks, but it felt more built for private use rather than public use. Again, the roads were wide and buildings towering with just glass to look at as you walked by. But things shifted as you walked to what most people know as Atlantic Station, a literal town square with plenty of food, shopping, and activities like a nice movie theater. People typically drive to the location, park underground, and pop up from stairwells that bring you to the square, but locals in nearby apartments could walk here and a nearby Target for groceries if they desired. There were plenty of families and dog walkers around to show that this was a lived in space.
 
-## Resolving Atlanta's Juxtaposition
+<div class="row mt-2">
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/WestEnd_BlackCoffee.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/WestEnd_BeltlineApartments.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-What are some solutions to help citizens of cities like Atlanta be more sustainable?
-- Investing in public transit to reduce car dependence
-- New models of car ownership
-  - More ZipCar alternatives
-  - Community autonomous rideshare
-- Micromobility
-- Making the city more bikable as we have begun to make it more walkable
-- Discuss funding mechanisms
+<div class="caption">
+    Image taken by author: A coffee shop attached to apartments, a stones throw away from the Westside Trail of the Atlanta Beltline.
+</div>
 
-## Closing Thoughts
+Lee+White, located in West End, offered a chiller side of the Beltline than what PCM offers. While the city of West End, a historically black location, has been under invested in for some time, the promise of the Beltline to bring economic development and foster community to *all* parts of Atlanta seems to begin to materialize here. I actually loved being in West End and on the Westside trail of the Atlanta Beltline. It felt so homey and overall chill despite some of the city's rough edges. I met so many friendly faces there, from a clothing brand owner in her shop within a shipping container in the parking lot (a normal siting on the Beltline), from the baristas and guests at a local coffee shop at an apartment complex you can get to right from the Beltline (they had amazing avocado toast!). There is a lot of room for growth in the city, but it already feels, again, like a lived in palce. That's what walkable cities built with intent can do. They elevate the presence and culture of the people that make that place feel real. This includes the animals that live here, as a flock of birds surprised me with a stunning display launching in and out of tress in unison along the Beltline, giving the community a show.
 
+The same can be said for the city of Decatur, a city a bit further out from Atlanta proper, but with a MARTA station that will take you right into the city. I visited Decatur sometime after my initial Atlanta field work, initially hesitant to visit the city due to it being 20 or so minutes away from the center of Atlanta. But it was well worth the visit! Downtown Decatur is the modern upgrade of the small southern downtown city you'll see pop up every now and then throughout Georgia. With a few towers and apartments alongside well designed streets that keep traffic slow near the city and invite walking around, Decatur feels like what happens when suburbia decides to become walkable. The MARTA station there is surrounded by plenty of shops and public space, making it easy to grab a bite to eat after doing a few skate tricks with your friends in the city (there's always a group of teenagers doing just this near the station). Places like this always invite chance opportunities as you enter nearby shops and restaurants. At a local ramen and poke bowl shop, I happened upon a silent book club and book swap meet, an activity they do regularly. They had a book there I hadn't read since high school, The Immortal Life of Henrieta Lacks, which I perused reminiscently as I waited on my food. It was just a surreal experience seeing how the community can come together in surprising ways.
 
-## Venturing Further: What's Next for [Blog Template]?
-- Is renting more sustainable than home ownership?
-  - And the debate over ownership vs subscriptions
+## Living in Atlanta's Juxtaposition
+
+Hopefully my personal exploration through the most walkable parts of a car-dependent city like Atlanta (score of 48 remember) have painted a picture of the many benefits that come with intentional city design that promote walkability, while also noting there is still work to be done. While its clear there is a deep sense of community along the Beltline and throughout the city, there is still the challenge to include every community in the uplifting spirit and momentum the Beltline brings. In cities like Decatur, its clear where the line ends for the haves and have-nots. Where walking and using public transit is used for leisure rather than a necessity to get to work despite not having even a bench to sit on waiting for the bus.
+
+Driving along I-75/I-85, with its charging Hellcats and silver Nissan Altimas, reminds you that this is still very much a car-dependent city. Hopefully the Waymos stick to city streets rather than the highways, but even that may be a daring adventure (one I took at night on my way back to my car at GT). This takes us back to the yellow Mini Cooper I happened upon on my skate from Reynoldstown to Krog Street Market. I nearly forgot to mention my time there in my fieldwork, but it slots in perfectly here.
+
+There is this great taco and coffee place in Reynoldstown that was once an old rail station that now serves as an entry way to the Eastside Beltline. I skated from there to Krog Street Market, a place similar to PCM with many food options, shops, and apartments all along the Beltline. You could walk from there all the way to PCM and many people do as it is full on the weekends with people traffic as bad as I-75 (a great signal that this is something people desire). Along my skate there to Krog Street, I found myself on this stretch of the Beltline with street art covered shipping containers to my right and beautiful apartments to my left, perfectly framing one of my favorite cars, a Mini Cooper.
+
+I, like Atlanta and many other American cities, will exist in this transitionary period. A love for cars and the *sense* of freedom they provide (emphasis on sense) alongside this budding love for walkable neighborhoods that provide a true freedom most of us didn't realize we were missing. It will take some time to get there, but it will also feel like this happened all at once and how it always was. The Beltline is already living up to its promise, and I believe someday sooner than we imagined, Atlanta will become a walkable community, a place that truly feels lived in.
+
+## Venturing Further: What's Next for the walkability of Atlanta?
+
+Thank you for taking the time to read this post. There's so much more I could discuss and hope to soon. Understanding what really makes the communities I explored feel like lived in places and how to continue creating that feeling throughout the entire city. There's a joy and anxiety to seeing the transformation of a place and I hope to record that journey as Atlanta continues to evolve. From fast moving cars and puzzling robots, to leisurely strolls from you home to a local coffee shop. This is a peak at a city born great.
 
 ## Inspiration: Helpful Resources
 
