@@ -31,7 +31,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2026/sustainable-renters-in-car-dependent-cities/";
+          window.location.href = "/blog/2026/the-walkability-of-atlanta/";
         
       },
     },{id: "post-more-than-ev-manufacturing-hype",
